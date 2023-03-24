@@ -1,2 +1,9 @@
-# ing-software-lab-1
-Laboratorio #1 Ingenieria de Software
+# Morse code converter
+
+
+Usage: 
+
+bash
+```
+$ java -jar .\target\classes\ucr\ac\cr\ingenieria\App.jar hello
+```
